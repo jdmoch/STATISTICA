@@ -1,0 +1,89 @@
+zad2 20.12
+statystyka
+statystyki podstawowe
+statystyki opisowe
+przezial ufn sredniej
+podajemy 95
+// pu dla odch std.
+
+P(16,1<m<23,9) = 0,95 //to albo to na dole na kolokwium
+
+Przedział (16,1;23,9) z prawdopodobieństwem równym 0,95 pokrywa nieznaną
+wartość średnią czasu mocowania detalu na odrabiarce.
+
+zad3
+
+s z daszkiem kwad odch stand probki
+
+03.01
+zad1
+h0: waga owocow agrestu ma rozklad normalny
+h1: nie ma rozkladu normalnego
+
+wykresy 2w
+normalnosci
+test shapiro - wilka
+
+Dla testu W Shapiro-Wilka poziom p= 0,1731 > 0,05, zatem nie ma podstaw do odrzucenia hipotez H0 o normalności rozkładu wagi owoców agrestu.
+
+
+zad2
+
+H0: średni czas życia komórek w tym środowisku jest równy 4 godziny
+H1: średni czas życia komórek w tym środowisku jest większy niż 4 godziny
+
+znowu co w pierwzszym
+statystyka statystki opisowe i tabbele
+testy t dla pojedynczej proby
+testuj srednie wzgledem 4
+
+
+Dla testu W Shapiro-Wilka poziom p= 0,6737 > 0,05, wiec nie ma postaw do odrzucenia hipotezy o normalnosci rozkladu zmiennej "sredni czas zycia komorek"
+
+
+Dla testu t-Studenta p=0,015629
+
+p/2<0,05, zatem odrzucamy hipotezę zerowa na korzysc alternatywnej(sredni czas zycia komorek jest wiekszy niz 4 godziny)
+
+
+
+
+
+
+zad3
+
+H0: m1=m2 (sredni czas snu jest taki sam w obu grupach)
+
+H1:m1 rózne od m2 (sredni czas snu w grupie chlopcow rozni sie od sredniego czasu snu w grupie dziewczat)
+
+wykresy 2w
+normalnosci
+test shapiro - wilka
+wiele na jednym wykresie
+zaznaczamy m i k
+
+
+Dla testu W Shapiro-Wilka p=0,6811 dla chlopcow i p=0,2407 dla dziewczynek.
+W obu przypadkach p>alfa, zatem nie ma podstaw do odrzucenia hipotezy o normalnosci rozkladu w obu grupach.
+
+statystyki
+opisowe
+test t  dla prob niezaleznych wzgl zmiennych
+
+w jednej m  wdrugiej k
+zaznaczamy w wiecej 2 testy 
+
+
+
+Dla testu Browna-Forsytha p=0,47, dla testu Levene'a p=0,44,
+dla testu F p =0,72; we wszystkich testacj p> alfa (0,05),
+zatem nie ma podstaw do odrzucenia hipotezy o rownosci wariancji w obu grupach.
+
+Dla testu t-Studenta p=0,88144>0,05
+Nie ma podstaw do odrzucenia hipotezy H0 o jednakowym czasie snu w obu grupach.
+
+
+
+testy t studenta zawsze dla srednich
+
+
